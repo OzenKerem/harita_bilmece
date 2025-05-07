@@ -1,0 +1,13 @@
+# IDE ve editör dosyaları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Yedek dosyaları
+*_backup*.js
+*_new*.js 
